@@ -1,0 +1,27 @@
+.wetter-widget-card {
+    background: rgb(0,83,160);
+    background: linear-gradient(90deg, rgba(0,83,160,1) 0%, rgba(17,104,184,1) 50%, rgba(97,160,253,1) 100%);
+    outline: 4px solid rgba(255, 255, 255, 0.44);
+    padding: 20px;
+    border-radius: 8px;
+    color: #fff;
+    text-align: center;
+}
+
+.wetter-widget-card h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.wetter-widget-card p {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.date{
+    font-size: 12px !important;
+}
+.mainData{
+    font-size: 32px !important;
+    font-weight: bold;
+}
